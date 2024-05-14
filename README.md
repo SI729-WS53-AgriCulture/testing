@@ -3,9 +3,9 @@ Feature: Guess the word
 
   # The first example has two steps
   Scenario:
-    Given
+    Given 
     When 
-    Then 
+    Then
   # The second example has three steps
   Scenario: 
     Given 
