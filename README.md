@@ -1,3 +1,4 @@
+```Gherkin
 Feature: Guess the word
 
   # The first example has two steps
@@ -10,3 +11,4 @@ Feature: Guess the word
     Given the Maker has started a game with the word "silky"
     When the Breaker joins the Maker's game
     Then the Breaker must guess a word with 5 characters
+```
