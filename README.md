@@ -2,7 +2,8 @@
 Feature: Guess the word
 
   # The first example has two steps
-  Scenario: 
+  Scenario:
+    Given
     When 
     Then 
   # The second example has three steps
