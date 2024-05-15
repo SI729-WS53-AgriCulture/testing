@@ -1,5 +1,4 @@
-
-Feature: Registro de usurio
+Feature:Registro de usurio
 
   # The first example has two steps
   Scenario: Registro exitoso
