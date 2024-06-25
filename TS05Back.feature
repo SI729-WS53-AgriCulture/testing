@@ -1,4 +1,4 @@
-Feature:
+Feature: Auditable
 Como developer
 quiero incluir Auditable en cada entity y aggregate
 para que el proyecto pueda ser auditado.
