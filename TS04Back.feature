@@ -1,4 +1,4 @@
-Feature: 
+Feature: Profile
   Como developer 
   quiero implementar una seccion de perfiles 
   para que mi usuario pueda editar su informacion.
